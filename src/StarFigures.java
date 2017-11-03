@@ -1,6 +1,6 @@
 /*
   	ISYS 320
-  	Name(s):
+  	Name(s): Chris Doyle
   	Date: 
 */
 
@@ -10,7 +10,31 @@
 public class StarFigures {
 
 	public static void main(String[] args) {
-
+		System.out.println("*****");
+		System.out.println("*****");
+		System.out.println(" * * ");
+		System.out.println("  *  ");
+		System.out.println(" * * ");
+		System.out.println();
+		System.out.println();
+		System.out.println("*****");
+		System.out.println("*****");
+		System.out.println(" * * ");
+		System.out.println("  *  ");
+		System.out.println(" * * ");
+		System.out.println("*****");
+		System.out.println("*****");
+		System.out.println();
+		System.out.println();
+		System.out.println("  *  ");
+		System.out.println("  *  ");
+		System.out.println("  *  ");
+		System.out.println("*****");
+		System.out.println("*****");
+		System.out.println(" * * ");
+		System.out.println("  *  ");
+		System.out.println(" * * ");
 	}
 
 }
+
